@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:groceries_2/screen/bording_screen.dart';
+import 'package:groceries_project/screen/bording_screen.dart';
 
 class Splash extends StatefulWidget {
   const Splash({super.key});

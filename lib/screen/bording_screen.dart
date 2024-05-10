@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:groceries_2/screen/login_page.dart';
+import 'package:groceries_project/screen/login_page.dart';
 
 class Bording extends StatefulWidget {
   const Bording({super.key});
