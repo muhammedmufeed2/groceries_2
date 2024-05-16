@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:groceries_project/bottom/navigation_page.dart';
 
+import '../bottom_page/navigation_page.dart';
+
 class Sign extends StatefulWidget {
   const Sign({super.key});
 
